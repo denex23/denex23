@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img alt="Issues" src="https://img.shields.io/static/v1?label=%7F&message=Neon&color=orange&style=flat&logo=linux&logoColor=white" />
+  <img alt="Issues" src="https://img.shields.io/static/v1?label=%7F&message=Ubuntu&color=orange&style=flat&logo=linux&logoColor=white" />
   <img alt="Issues" src="https://img.shields.io/static/v1?label=%7F&message=Windows&color=orange&style=flat&logo=windows&logoColor=white" />
   <img alt="Issues" src="https://img.shields.io/static/v1?label=%7F&message=PHPStorm&color=orange&style=flat&logo=phpstorm&logoColor=white" />
   <img alt="Issues" src="https://img.shields.io/static/v1?label=%7F&message=PyCharm&color=orange&style=flat&logo=pycharm&logoColor=white" />
